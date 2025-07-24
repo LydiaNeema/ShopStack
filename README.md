@@ -4,7 +4,7 @@ A fully functional Single Page Application (SPA) for product management built wi
 
 ## 🌐 Live Demo
 
-- **Frontend**: [https://your-frontend-url.vercel.app]
+- **Frontend**: [https://shop-stack-tau.vercel.app/]
 - **Backend** : [https://shop-stack.onrender.com]
 
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have the following installed:
 ## ⚡ Quick Setup
 
 ### Option 1: Use Live Demo
-Simply visit the [live application](https://your-frontend-url.vercel.app) to start using ShopStack immediately!
+Simply visit the [live application](https://shop-stack-tau.vercel.app/) to start using ShopStack immediately!
 
 ### Option 2: Local Development
 
