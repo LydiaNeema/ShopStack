@@ -5,6 +5,7 @@ A fully functional Single Page Application (SPA) for product management built wi
 ## 🌐 Live Demo
 
 - **Frontend**: [https://shop-stack-tau.vercel.app/]
+
 - **Backend** : [https://shop-stack.onrender.com]
 
 
@@ -167,7 +168,7 @@ Each product contains the following fields:
 ## 🌐 Deployment
 
 ### Frontend Deployment
-The frontend is deployed on **Render** and automatically builds from the main branch.
+The frontend is deployed on **Vercel** and automatically builds from the main branch.
 
 ### Backend Deployment  
 The backend is deployed on **Render** and serves the JSON Server API.
